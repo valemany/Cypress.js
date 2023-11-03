@@ -1,0 +1,13 @@
+{
+  "cardNumber": "6011111111111117",
+  "expirationDate": "06/27",
+  "cvc": "738",
+  "fullName": "Victor Alemany",
+  "countryOrRegion": "United States",
+  "address": "18 West 18th Street, New York, NY",
+  "addressLine2": "150",
+  "city": "New York",
+  "state": "NY",
+  "zipCode": "10011",
+  "phoneNumber": "201-555-0239"
+}
